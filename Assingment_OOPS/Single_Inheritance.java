@@ -1,3 +1,5 @@
+package Assingment_OOPS;
+
 /**
  * Inheritance : Inheritance is a mechanism in which one object acquires all the properties and behaviors of a parent object.
  * Single Inheritance : In this part single subclass inherit the properties of the super class
