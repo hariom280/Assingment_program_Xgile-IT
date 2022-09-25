@@ -3,13 +3,18 @@
   <component name="ChangeListManager">
     <list default="true" id="b6c30980-d2c3-4479-9038-42ce698a585e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assingment_OOPS/Single_Inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assingment_OOPS/Single_Inheritance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assingment_OOPS/Students.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assingment_OOPS/Students.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -30,7 +35,20 @@
     &quot;last_opened_file_path&quot;: &quot;F:/Assigment_program_Xglie-IT&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.PackageDog.Dog">
+    <configuration name="PackageDog.Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PackageDog.Dog" />
+      <module name="Assigment_program_Xglie-IT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PackageDog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Students" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Students" />
       <module name="Assigment_program_Xglie-IT" />
@@ -40,6 +58,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PackageDog.Dog" />
         <item itemvalue="Application.Students" />
       </list>
     </recent_temporary>
