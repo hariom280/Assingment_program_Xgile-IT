@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b6c30980-d2c3-4479-9038-42ce698a585e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assingment_One/PackageAnimal/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assingment_One/packageanimal/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assingment_One/PackageDog/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assingment_One/packagedog/Dog.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +37,21 @@
     &quot;last_opened_file_path&quot;: &quot;F:/Assigment_program_Xglie-IT&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Dog">
-    <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.CalculationApp">
+    <configuration name="CalculationApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testcalculator.CalculationApp" />
+      <module name="Assigment_program_Xglie-IT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcalculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PackageDog.Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PackageDog.Dog" />
       <module name="Assigment_program_Xglie-IT" />
       <extension name="coverage">
@@ -58,7 +73,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Dog" />
+        <item itemvalue="Application.CalculationApp" />
+        <item itemvalue="Application.PackageDog.Dog" />
         <item itemvalue="Application.Students" />
       </list>
     </recent_temporary>
@@ -73,5 +89,16 @@
       <updated>1660919077218</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

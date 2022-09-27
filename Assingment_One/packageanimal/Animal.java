@@ -1,4 +1,4 @@
-package PackageAnimal; //Created package with PackageAnimal
+package packageanimal; //Created package with PackageAnimal
 
 public class Animal {
     private String breedName;

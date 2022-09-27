@@ -1,6 +1,6 @@
-package PackageDog;
+package packagedog;
 
-import PackageAnimal.Animal;
+import packageanimal.Animal;
 
 public class Dog extends Animal{
     String color = "Brown";
